@@ -31,11 +31,12 @@ For the rest, the code is interactive as possible to guide you achive your goal.
 
 
 To achive this work, I make use of my udacity classroom courses, stack overflow, W3Schools and google for undertanding of some phython method and syntax.
-____________________________________________________ Looking forward to hearing from you soon __________________________________________________
 
-_______________________________________________________________Best Regards______________________________________________________________
+**Looking forward to hearing from you soon**
 
-____________________________________________________________JOSUE NGUINABE_______________________________________________________________
+**Best Regards**
+
+_JOSUE NGUINABE_
 
 
 
